@@ -115,28 +115,7 @@ export API_KEY="your-key"
 
 ---
 
-## 🔥 Optional Upgrades (future)
-
-* ⭐ Starship prompt
-* ⚡ zoxide (better cd)
-* 🔍 fzf (fuzzy search)
-* 📦 pnpm / bun
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork and customize for your own workflow.
 
----
-
-## 📌 Author
-
-**Onkar Patel**
-
----
-
-## ⭐ If this helped
-
-Give it a star ⭐
-s
