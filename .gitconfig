@@ -1,0 +1,15 @@
+[user]
+	name = onkar
+	email = onkarpatel10@gmail.com
+
+[core]
+	editor = nano
+
+[init]
+	defaultBranch = main
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    cm = commit -m
